@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacob-Zackaria
 - 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning M.S in Game Programming from DePaul University, Chicago
+- 🌱 I’m currently working in a C2C job at Apple as a web developer
 - 📫 How to reach me : 
  email: zackariajacob@gmail.com
  website: https://zackariajacob.wixsite.com/portfolio
